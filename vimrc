@@ -1,4 +1,6 @@
-filetype detection and syntax highlighting
+scriptencoding utf-8
+
+" filetype detection and syntax highlighting
 filetype plugin indent on
 syntax on
 
